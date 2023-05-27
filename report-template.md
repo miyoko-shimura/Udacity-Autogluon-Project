@@ -1,5 +1,6 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### Miyoko Shimura 28.05.2023
+#### By Miyoko Shimura
+#### 28.05.2023
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
