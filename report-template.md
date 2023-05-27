@@ -56,7 +56,7 @@ For example, considering the correlation between humidity and bicycle demand wou
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-[model_train_score.png](attached)
+[model_train_score.png](https://github.com/miyoko-shimura/Udacity-Autogluon-Project/tree/main/project/img/](https://github.com/miyoko-shimura/Udacity-Autogluon-Project/blob/main/project/img/model_test_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
